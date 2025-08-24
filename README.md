@@ -89,6 +89,10 @@ SCREENSHOTS:
 
 <img width="653" height="472" alt="459418589-37701874-10a8-4456-aec4-229b4d5818aa" src="https://github.com/user-attachments/assets/2d5fffda-267f-4b9d-a6c9-abf16ff8a737" />
 
+<img width="719" height="435" alt="459419932-50661bf0-2ac3-4838-8ae0-047180e04f40" src="https://github.com/user-attachments/assets/e1513c97-e879-4d7e-852f-74fcc2d53a70" />
+
+<img width="674" height="439" alt="458868168-07ae4f5b-f732-4503-b66d-aabf28e64296" src="https://github.com/user-attachments/assets/776015ed-2122-49a1-bd79-7da1e73cf5c8" />
+
 📌 Usage Guide
 
 Data Handling: Upload your own stock CSVs or use provided datasets.

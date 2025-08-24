@@ -76,13 +76,18 @@ TIME_SERIES_STOCK_FORECASTING/
 
 📦 Installation & Running Locally
 
-1.Clone the Repo bash Copy Edit git clone https://github.com/SravyaAUCSE/TIME_SERIES_STOCK_FORECASTING.git cd TIME_SERIES_STOCK_FORECASTING
+1.Clone the Repo bash Copy Edit git clone https://github.com/Hamsavall/TIME_SERIES_STOCK_FORECASTING.git cd TIME_SERIES_STOCK_FORECASTING
 
 2.Install Dependencies bash Copy Edit pip install -r requirements.txt
 
 3.Add CSV Data Dataset: https://www.kaggle.com/datasets/szrlee/stock-time-series-20050101-to-20171231?utm_source=chatgpt.com
 
 4.Run the Streamlit App bash Copy Edit streamlit run app.py 📬 Usage Notes ✅ Handles multiple stocks: loops through all CSVs in /data folder.
+
+SCREENSHOTS:
+
+
+<img width="653" height="472" alt="459418589-37701874-10a8-4456-aec4-229b4d5818aa" src="https://github.com/user-attachments/assets/2d5fffda-267f-4b9d-a6c9-abf16ff8a737" />
 
 📌 Usage Guide
 

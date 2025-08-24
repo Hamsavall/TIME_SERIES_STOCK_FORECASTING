@@ -76,7 +76,7 @@ TIME_SERIES_STOCK_FORECASTING/
 
 📦 Installation & Running Locally
 
-1.Clone the Repo bash Copy Edit git clone https://github.com/kumar-ankit-100/TIME_SERIES_STOCK_FORECASTING.git cd TIME_SERIES_STOCK_FORECASTING
+1.Clone the Repo bash Copy Edit git clone https://github.com/SravyaAUCSE/TIME_SERIES_STOCK_FORECASTING.git cd TIME_SERIES_STOCK_FORECASTING
 
 2.Install Dependencies bash Copy Edit pip install -r requirements.txt
 

@@ -124,11 +124,11 @@ Submit a pull request
 
 👤 Author : 
 
-V HAMSA VALLI - 
+V HAMSA VALLI - https://github.com/Hamsavall
 
 👥 Contributor :
 
-JAMI SRAVYA - 
+JAMI SRAVYA - https://github.com/SravyaAUCSE
 
 📄 License
 

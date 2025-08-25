@@ -1,30 +1,26 @@
-# TIME_SERIES_STOCK_FORECASTING
+### 📈 TIME_SERIES_STOCK_FORECASTING
 
 An interactive and automated stock market forecasting dashboard built with Streamlit, integrating both classical time series models (ARIMA, SARIMA, Prophet) and deep learning (LSTM).
 
 The project’s goal is to provide analysts and investors with a user-friendly forecasting tool that automates data preprocessing, model building, and performance evaluation for better decision-making.
 
-🚀 Features
+---
+
+### 🚀 Features
 
 ✅ Upload or auto-load multiple stock datasets
-
 📊 EDA with trend visualization, rolling averages & outlier detection
-
 🧹 Preprocessing: missing values handling, scaling, formatting
-
 📈 Forecasting with ARIMA, SARIMA, Prophet, and LSTM
-
 🎛️ Hyperparameter tuning (manual & automated)
-
 📉 Model performance comparison using RMSE, MAE, and MAPE
-
 💾 Save trained models for reuse
-
 📊 Real-time interactive plots with Plotly
-
 🧠 LSTM for capturing long-term dependencies
 
-🧭 Dashboard Modules
+---
+
+### 🧭 Dashboard Modules
 
 🔍 Exploratory Data Analysis & Outlier Detection
 
@@ -32,14 +28,19 @@ The project’s goal is to provide analysts and investors with a user-friendly f
 
 📊 Model Comparison Metrics
 
-📊 Models Implemented
+---
+
+### 📊 Models Implemented
+
 Model	Type	Framework	Key Feature
 ARIMA	Traditional	statsmodels	Works on lag, trend, and moving average
 SARIMA	Traditional	statsmodels	Adds seasonality
-Prophet	Additive Model	fbprophet	Handles seasonality, holidays, and trends
+Prophet	Additive	fbprophet	Handles seasonality, holidays, and trends
 LSTM	Deep Learning	TensorFlow/Keras	Learns sequential patterns & long-term dependencies
 
-📊 Evaluation Metrics
+---
+
+### 📊 Evaluation Metrics
 
 RMSE – Penalizes large errors
 
@@ -47,8 +48,10 @@ MAE – Mean of absolute errors
 
 MAPE – Percentage-based error measure
 
-📁 Project Structure
-<br>
+---
+
+### 📁 Project Structure
+
 
 TIME_SERIES_STOCK_FORECASTING/
 
@@ -74,7 +77,9 @@ TIME_SERIES_STOCK_FORECASTING/
 
 └── README.md             # Documentation
 
-📦 Installation & Running Locally
+---
+
+### 📦 Installation & Running Locally
 
 1.Clone the Repo bash Copy Edit git clone https://github.com/Hamsavall/TIME_SERIES_STOCK_FORECASTING.git cd TIME_SERIES_STOCK_FORECASTING
 
@@ -84,8 +89,9 @@ TIME_SERIES_STOCK_FORECASTING/
 
 4.Run the Streamlit App bash Copy Edit streamlit run app.py 📬 Usage Notes ✅ Handles multiple stocks: loops through all CSVs in /data folder.
 
-SCREENSHOTS:
+---
 
+### SCREENSHOTS:
 
 <img width="653" height="472" alt="459418589-37701874-10a8-4456-aec4-229b4d5818aa" src="https://github.com/user-attachments/assets/2d5fffda-267f-4b9d-a6c9-abf16ff8a737" />
 
@@ -93,7 +99,9 @@ SCREENSHOTS:
 
 <img width="674" height="439" alt="458868168-07ae4f5b-f732-4503-b66d-aabf28e64296" src="https://github.com/user-attachments/assets/776015ed-2122-49a1-bd79-7da1e73cf5c8" />
 
-📌 Usage Guide
+---
+
+### 📌 Usage Guide
 
 Data Handling: Upload your own stock CSVs or use provided datasets.
 
@@ -109,7 +117,9 @@ Comparison: Evaluate models side by side using RMSE, MAE, and MAPE.
 
 Save & Reuse: Store trained models in /models for later use.
 
-🛠 Tools & Technologies
+---
+
+### 🛠 Tools & Technologies
 
 Languages: Python
 
@@ -119,7 +129,9 @@ Libraries: Pandas, NumPy, Scikit-learn, Plotly, Matplotlib, Seaborn
 
 Deployment: Streamlit app (local or cloud hosting)
 
-🤝 Contributing
+---
+
+### 🤝 Contributing
 
 Fork the repository
 
@@ -131,15 +143,17 @@ Add tests if applicable
 
 Submit a pull request
 
-👤 Author : 
+---
+
+### 👤 Author
 
 V HAMSA VALLI - https://github.com/Hamsavall
 
-👥 Contributor :
+### 👥 Contributor
 
 JAMI SRAVYA - https://github.com/SravyaAUCSE
 
 📄 License
 
-This project is licensed under the MIT License
+This project is licensed under the MIT License.
 
